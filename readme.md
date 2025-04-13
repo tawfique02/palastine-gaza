@@ -22,16 +22,14 @@
 
 ---
 
-⚠️ Notes & Limitations
+## ⚠️ Notes & Limitations
+
 🚫 Does not work with local/private IPs (192.168.x.x, 127.0.0.1, etc.)
-
 🌐 Geolocation is approximate based on public database APIs
-
 🔁 Reverse DNS may not return results for all IPs
-## 📦 Installation
 
-  ---
-  
+## 📦 Installation
+  --- 
 ### ✅ Requirements
 
 - Python 3.6+
