@@ -1,0 +1,12 @@
+python --version
+
+#command#
+
+pip install requests ipwhois
+pip3 install requests ipwhois
+
+##usages##
+
+python ip_tool.py -i 8.8.8.8 --geolocation --whois --asn --basic
+python3 ip_tool.py -i 8.8.8.8 --geolocation --whois --asn --basic
+python ip_tool.py -i 8.8.8.8 --geolocation --whois --asn --basic --output ip_info.json
