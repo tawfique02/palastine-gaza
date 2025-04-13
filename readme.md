@@ -29,6 +29,12 @@
 - Python 3.6+
 - `pip` (Python package installer)
 
+🧑‍💻 Author
+MD TAWFIQUE ELAHEY
+📫 [stifen38@gmail.com]
+🔗 [https://github.com/tawfique02]
+
+
 ### 🔧 Install Dependencies
 
 ```bash
