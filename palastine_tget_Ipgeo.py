@@ -1,3 +1,4 @@
+#This script is made for educational purposes and ethical ahcking purposes. Please, don't use this script for unethical purposes.
 import argparse
 import socket
 import requests
@@ -8,7 +9,7 @@ def print_banner():
     banner = """
     ========================================================
     IP Information Gathering Toolkit
-    Developer: Your Name
+    Developer: Md Tawfique Elahey
     Description: Gather geolocation, WHOIS, ASN, and basic info for IP addresses.
     ========================================================
     """
