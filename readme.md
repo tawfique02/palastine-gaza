@@ -42,8 +42,6 @@ MD TAWFIQUE ELAHEY ```
 📫 [stifen38@gmail.com]
 🔗 [https://github.com/tawfique02]
 
-
-### 🔧 Install Dependencies
-
-```bash
-pip install requests ipwhois
+---
+## 📜 LICENSE 
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
