@@ -35,6 +35,7 @@
 - Python 3.6+
 - `pip` (Python package installer)
 
+```perl
 my-palastine-gaza/
 │
 ├── python3 palastine_tget_Ipgeo.py      # main Python script
@@ -42,6 +43,7 @@ my-palastine-gaza/
 ├── LICENSE                              # The file containing the full MIT License
 ├── file.txt                             # The guideline file where some command is inculded
 
+```
 --- 
 
 ## 🧑‍💻 Author
